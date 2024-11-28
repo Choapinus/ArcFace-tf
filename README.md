@@ -46,7 +46,7 @@ For a detailed description of the preprocessing pipeline and dataset splits, ref
 If you use this work in your research, please cite our paper:
 
 ```bibtex
-@article{valenzuela2023pad,
+@article{valenzuela2024pad,
   title={Presentation Attack Detection using Iris Periocular Visual Spectrum Images},
   author={Valenzuela, Andrés and Tapia, Juan E. and Chang, Violeta and Busch, Christoph},
   journal={Frontiers in Imaging},
